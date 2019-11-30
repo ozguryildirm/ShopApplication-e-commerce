@@ -1,0 +1,23 @@
+﻿@model ProductListModel
+
+
+<div class="row">
+    <div class="col-md-3">
+        @await Component.InvokeAsync("CategoryList")
+    </div>
+    <div class="col-md-9">
+
+        <partial name="_slider" />
+
+        <div class="row">
+            @foreach (var product in Model.Products)
+            {
+                <partial name="_product" for="@product" />
+            }
+        </div>
+
+    </div>
+</div>
+
+  
+@*@await  metodunu kullanırken CategoryList ismi aslında CategoryListViewComponent class'ı. Bu özel bir class ve sondaki view componenti silerek bunu çağırabiliyor.*@

@@ -1,0 +1,16 @@
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ÖZGÜR\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ozgur\source\repos\ShopApp\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
