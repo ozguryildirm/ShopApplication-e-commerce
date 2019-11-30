@@ -9,6 +9,8 @@ This is a web project built by ASP.NetCore MVC technologies( 2.2 )
 
 -Business Layer
 
+-Dependency Injection
+
 -Web Interface
 
 -Entity Framework Core 
